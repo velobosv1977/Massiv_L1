@@ -60,7 +60,5 @@ public class Main {
         System.out.println(Arrays.toString(arr3));
         arr[11]=1;
 
-
-
     }
 }
