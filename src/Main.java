@@ -46,7 +46,7 @@ public class Main {
         int l = arr[arr.length - 1];
         System.out.println("Значение последней ячейки массива arr равно " + l);
         //можно сразу заполнять массив данными, причём размер массива можно не указывать:
-        int[] arr2 = {5, 6, 7};
+        int[] arr2 = {2, 6, 7};
         //массивы удобно заполнять циклами (ранее был создан массив arr мз 10 ячеек):
         for (int index = 0; index < arr.length; index++) {
             if (index==arr.length - 1) {
